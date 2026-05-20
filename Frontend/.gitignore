@@ -50,3 +50,4 @@ Thumbs.db
 .package.json
 
 .next/
+.venv/
